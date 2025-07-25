@@ -1,0 +1,33 @@
+2025-06-21 09:14:30,579 - ExesMachine.MACHINE001 - INFO - Initializing machine MACHINE001
+2025-06-21 09:14:30,579 - ExesMachine.MACHINE001 - INFO - Initializing local database
+2025-06-21 09:14:30,615 - ExesMachine.MACHINE001 - INFO - Database initialized successfully
+2025-06-21 09:14:30,615 - ExesMachine.MACHINE001 - INFO - Initializing user interface
+2025-06-21 09:14:30,748 - ExesMachine.MACHINE001 - INFO - Starting application main loop
+2025-06-21 09:14:41,261 - ExesMachine.MACHINE001 - INFO - Donation recorded: 1 items, expiry: 2025-06-21
+2025-06-21 09:14:45,457 - ExesMachine.MACHINE001 - INFO - Food items collected: [1]
+2025-06-21 09:17:06,393 - ExesMachine.MACHINE001 - INFO - Donation recorded: 1 items, expiry: 2025-06-21
+2025-06-21 09:17:48,834 - ExesMachine.MACHINE001 - INFO - Donation recorded: 1 items, expiry: 2025-06-23
+2025-06-21 09:18:00,804 - ExesMachine.MACHINE001 - INFO - Food items collected: [2, 3]
+2025-06-21 09:18:38,707 - ExesMachine.MACHINE001 - INFO - Donation recorded: 3 items, expiry: 2025-06-22
+2025-06-21 09:19:14,327 - ExesMachine.MACHINE001 - INFO - Food items collected: [4]
+2025-06-21 09:21:03,960 - ExesMachine.MACHINE001 - INFO - Expired items marked as removed
+2025-06-21 09:21:05,759 - ExesMachine.MACHINE001 - INFO - Server sync initiated
+2025-06-21 09:21:08,312 - ExesMachine.MACHINE001 - INFO - Door test initiated
+2025-06-21 09:21:12,048 - ExesMachine.MACHINE001 - INFO - Cleaning up resources
+2025-07-26 01:12:59,357 - ExesMachine.MACHINE001 - INFO - Initializing machine MACHINE001
+2025-07-26 01:12:59,359 - ExesMachine.MACHINE001 - INFO - Initializing local database
+2025-07-26 01:12:59,360 - ExesMachine.MACHINE001 - INFO - Database initialized successfully
+2025-07-26 01:12:59,361 - ExesMachine.MACHINE001 - INFO - Initializing user interface
+2025-07-26 01:12:59,458 - ExesMachine.MACHINE001 - INFO - Starting application main loop
+2025-07-26 01:13:06,617 - ExesMachine.MACHINE001 - INFO - Donation recorded: 1 items, expiry: 2025-07-26
+2025-07-26 01:13:10,536 - ExesMachine.MACHINE001 - INFO - Donation recorded: 1 items, expiry: 2025-07-26
+2025-07-26 01:13:15,014 - ExesMachine.MACHINE001 - INFO - Food items collected: [5, 6]
+2025-07-26 01:13:22,638 - ExesMachine.MACHINE001 - INFO - Cleaning up resources
+2025-07-26 01:44:47,672 - ExesMachine.MACHINE001 - INFO - Initializing machine MACHINE001
+2025-07-26 01:44:47,673 - ExesMachine.MACHINE001 - INFO - Initializing local database
+2025-07-26 01:44:47,675 - ExesMachine.MACHINE001 - INFO - Database initialized successfully
+2025-07-26 01:44:47,675 - ExesMachine.MACHINE001 - INFO - Initializing user interface
+2025-07-26 01:44:47,748 - ExesMachine.MACHINE001 - INFO - Starting application main loop
+2025-07-26 01:44:52,332 - ExesMachine.MACHINE001 - INFO - Donation recorded: 1 items, expiry: 2025-07-26
+2025-07-26 01:44:54,767 - ExesMachine.MACHINE001 - INFO - Food items collected: [7]
+2025-07-26 01:44:58,261 - ExesMachine.MACHINE001 - INFO - Cleaning up resources
